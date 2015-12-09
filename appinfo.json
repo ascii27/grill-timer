@@ -1,0 +1,59 @@
+{
+  "uuid": "060d8197-9cf9-49d4-ab1d-03074d0a6d50",
+  "shortName": "Grill Timer",
+  "longName": "Grill Timer",
+  "companyName": "One Digit Apps",
+  "versionCode": 1,
+  "versionLabel": "1.1",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "FONT_MONOTYPEWRITER_35",
+        "file": "font/MonospaceTypewriter_35.ttf"
+      },
+      {
+        "type": "font",
+        "name": "FONT_MONOTYPEWRITER_20",
+        "file": "font/MonospaceTypewriter_20.ttf"
+      },
+      {
+        "type": "png-trans",
+        "name": "IMAGE_SPATULA_TOP",
+        "file": "images/spatula_top.png"
+      },
+      {
+        "type": "png-trans",
+        "name": "IMAGE_SPATULA_TURNING",
+        "file": "images/spatula_turning.png"
+      },
+      {
+        "type": "png-trans",
+        "name": "IMAGE_SPATULA_BOTTOM",
+        "file": "images/spatula_bottom.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_FLAME",
+        "file": "images/flame.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu-icon.png",
+        "menuIcon": true
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}
